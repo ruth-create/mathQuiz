@@ -1,0 +1,26 @@
+body
+{
+	background-image:url("https://www.whizz.com/wp-content/uploads/numbers-crop.png");
+	text-align:center;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		margin:20px;
+	}
+	h1{
+		color:black;
+	}
+
+	#output{
+		background:white;
+		border-radius:10px;
+		border-top:10px solid;
+		padding: 10px;
+		float:none;
+		text-align:center;
+	}
